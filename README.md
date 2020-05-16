@@ -1,6 +1,6 @@
-# Data Mining Homework2
+﻿# Data Mining Homework2
 ## Dataset
-(Consumer & Visitor Insights For Neighborhoods)[https://www.kaggle.com/safegraph/visit-patterns-by-census-block-group]
+[Consumer & Visitor Insights For Neighborhoods](https://www.kaggle.com/safegraph/visit-patterns-by-census-block-group)
 ## Requirements for data analysis
 * 对数据集进行处理，转换成适合进行关联规则挖掘的形式；
 * 找出频繁模式；
